@@ -1,0 +1,7 @@
+Interview Process,No. of candidates
+applicants,250
+shortlisted,190
+written test,110
+technical,45
+hr,14
+final joining,5

@@ -35,3 +35,43 @@ def fun(arg):
 var="python"
 print("before:",id(var))
 print("after:",id(var))
+
+# keywords Arguments
+
+# def student(name, age):
+#     print(name, age)
+
+# student(age=20, name='Rahul')
+
+
+# Docstring
+
+# def greeting():
+#     '''This is the Docstring of
+#     greeting function'''
+#     print("hello Good Mornig")
+#     return
+
+# greeting()
+
+
+# def printtime(str):
+#     '''This function pass the
+#     string into the fuction'''
+
+# def printtime(str):
+#     '''This function pass the
+#     string into the fuction'''
+#     print(str)
+#     return
+# printtime("hello I am a Print Time Function by user dcefined")
+
+# Refrence value
+def fun1(arg):
+    arg = "Developer"
+    print("Id inside the Function: ", id(arg))
+
+var = "Python"
+print("Befor: ", id(var))
+fun1(var)
+print("After: ", id(var))

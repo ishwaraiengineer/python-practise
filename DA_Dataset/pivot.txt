@@ -1,0 +1,10 @@
+Student,Subject,Marks
+Ram,Math,80
+Ram,Science,70
+Ram,English,75
+Shyam,Math,60
+Shyam,Science,65
+Shyam,English,55
+Mohan,Math,90
+Mohan,Science,85
+Mohan,English,88
